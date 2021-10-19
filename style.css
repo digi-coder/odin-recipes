@@ -1,6 +1,13 @@
 /* style.css */
 
-div {
-    color:black;
-    background-color: white;
+.title {
+    color:blue;
+}
+
+.un-list {
+    color: green;
+}
+
+.or-list {
+    color: red;
 }
